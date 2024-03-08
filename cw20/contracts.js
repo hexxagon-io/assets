@@ -1834,6 +1834,11 @@ module.exports = {
       name: "Lunc Candy",
       icon: "https://ibb.co/VY8pZ0b",
     },
+    terra1l9cp4ljct88d8nh7lrqq0pfttulmjjlqefnulpy5s6zt4p4em7xs9t76vr: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y", "uluna"],
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
