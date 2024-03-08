@@ -483,6 +483,11 @@ module.exports = {
       type: "xyk",
       assets: ["uusd", "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00"],
     },
+    terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y: {
+      protocol: "ELON",
+      name: "ELON",
+      icon: "https://ibb.co/0ByCd68",
+    },
   },
   testnet: {},
 };
