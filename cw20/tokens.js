@@ -1786,6 +1786,22 @@ module.exports = {
       icon: "https://i.ibb.co/n3XvsYD/OIG1.jpg",
       decimals: 6,
     },
+    terra17q57jnwrqd6fgvt267lpgnw5muuua2awgq0k6zhkuwryregr827sxljafx: {
+      protocol: "ELLON",
+      name: "TESSLA",
+      symbol: "TESSLA",
+      token: "terra17q57jnwrqd6fgvt267lpgnw5muuua2awgq0k6zhkuwryregr827sxljafx",
+      decimals: 6,
+      icon: " https://i.ibb.co/LQQ36tq/Tessla.png""
+    },
+    terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27: {
+      protocol: "ELLON",
+      name: "SPACEX",
+      symbol: "SPACEX",
+      token: "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27",
+      decimals: 6,
+      icon: "https://i.ibb.co/cTPkh0Q/SpaceX.png"
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
